@@ -4,12 +4,12 @@
   "logo": {
         "source": "~/.config/fastfetch/cat.txt",
         "type": "auto",
-        "height": 15,
-        "width": 26,
+        "height": 3,
+        "width": 12,
         "padding": {
             "top": 0,
             "left": 2,
-            "right": 6
+            "right": 0
         }
     },
   "modules": [
